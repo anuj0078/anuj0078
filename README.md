@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuj0078&label=Profile%20views&color=0e75b6&style=flat" alt="anuj0078" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+
 - 👨‍💻 I'm currently doing **Masters in Data Science & Analytics**
 - 🌱 I’m currently learning **LLMs, GenAI**
 - 👯 I’m looking to collaborate **with any tech person who is passionate about AI and ML.**
@@ -12,7 +13,7 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anuj-tiwari-03b762220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuj-tiwari-03b762220" height="30" width="40" /></a>
-</p>
+  <h3 align="left">Connect with me:</h3>
+  <p align="left">
+  <a href="https://linkedin.com/in/anuj-tiwari-03b762220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuj-tiwari-03b762220" height="30" width="40" /></a>
+  </p>
