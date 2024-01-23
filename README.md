@@ -4,15 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuj0078&label=Profile%20views&color=0e75b6&style=flat" alt="anuj0078" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **LLMs, GenAI**
-
-- 👯 I’m looking to collaborate **with any tech person who is passionate about AI and ML.**
-
 - 👨‍💻 I'm currently doing **Masters in Data Science & Analytics**
-
+- 🌱 I’m currently learning **LLMs, GenAI**
+- 👯 I’m looking to collaborate **with any tech person who is passionate about AI and ML.**
 - 💬 Ask me about **Machine Learning, Deep Learning, Statistics, NLP, Computer Vision and LLMs.**
-
 - 📫 How to reach me **ajtiwari9870@gmail.com**
+
 
 
 <h3 align="left">Connect with me:</h3>
